@@ -1,0 +1,41 @@
+@use "./componentes/titulo";
+@use "./componentes/container";
+
+@use "variaveis";
+@use "hero";
+@use "sobre";
+@use "sessao";
+
+
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Lobster Two", sans-serif;
+  list-style: none;
+}
+
+.background {
+  min-width: 480px;
+  width: 100vw;
+  height: 100vh;
+  background: url("../assets/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #d4af37;
+  background-position: center;
+  overflow: hidden;
+
+  @media (max-width: 1024px) {
+    background: url("../assets/background-vertical.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+}
+
+
+

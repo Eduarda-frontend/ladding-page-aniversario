@@ -1,0 +1,9 @@
+@use "variaveis";
+
+.hero {
+  padding-top: 11rem;
+
+  p {
+    font-size: variaveis.$texto-secundario;
+  }
+}
