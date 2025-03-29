@@ -1,4 +1,4 @@
-4386
+4385
 87C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\regions\GF.js133875933586687893 0
 106C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\entities\lib\esm\generated\decode-data-html.js.map133875933582437000 0
 64C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\get-port133875933580210421 1
@@ -15,7 +15,7 @@
 77C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\dotenv-expand\LICENSE133875933579183230 0
 76C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\sass\sass.default.js133875936193155528 0
 87C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\regions\IL.js133875933586992005 0
-53C:\Users\Usuario\Documents\ebac\projeto-22\.gitignore133875935861838232 0
+53C:\Users\Usuario\Documents\ebac\projeto-22\.gitignore133876913367041331 0
 87C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\regions\DE.js133875933585875961 0
 84C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\sass\types\logger\index.d.ts133875936193305661 0
 99C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\vector-effect.js133875933589483619 0
@@ -49,7 +49,7 @@
 78C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\supports-color\license133875933579153205 0
 70C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\dotenv\LICENSE133875933579193244 0
 57C:\Users\Usuario\Documents\ebac\projeto-22\src\index.html133876910387245489 0
-54C:\Users\Usuario\Documents\ebac\projeto-22\src\scripts133876770535768310 1
+54C:\Users\Usuario\Documents\ebac\projeto-22\src\scripts133876915940717685 1
 70C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\semver\classes133875933582879765 1
 80C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\js-yaml\dist\js-yaml.mjs133875933582879765 0
 87C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\regions\AD.js133875933580791935 0
@@ -82,6 +82,9 @@
 63C:\Users\Usuario\Documents\ebac\projeto-22\src\styles\main.scss133876911593705260 0
 84C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\msgpackr-extract\binding.gyp133875933579706957 0
 99C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\transformer-js\src\JSTransformer.js133875933580651810 0
+81C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\fs\lib\browser.js133875933579706957 0
+67C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\htmlparser2133875933582547105 1
+107C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js133875933579539988 0
 63C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\globals133875933580581742 1
 97C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\optimizer-swc\lib\SwcOptimizer.js133875933579529796 0
 79C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\domutils\lib\helpers.js133875933580378599 0
@@ -114,9 +117,6 @@
 73C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\readdirp\index.js133875936192966566 0
 80C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\transformer-html133875933580872012 1
 77C:\Users\Usuario\Documents\ebac\projeto-22\src\styles\componentes\titulo.scss133876872044987580 0
-66C:\Users\Usuario\Documents\ebac\projeto-22\src\scripts\componentes133876819252290699 1
-85C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\update-browserslist-db\cli.js133875933579706957 0
-99C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\passwordrules.js133875933588212183 0
 85C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\core\src\constants.js133875933583552274 0
 113C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133875933583908450 0
 81C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\entities\lib\esm\index.js133875933581880543 0
@@ -271,9 +271,6 @@
 126C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js133875933584078603 0
 83C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\type-fest\source\entry.d.ts133875933581545977 0
 105C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@swc\helpers\_\_class_check_private_static_access133875933585449941 1
-81C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\fs\lib\browser.js133875933579706957 0
-67C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\htmlparser2133875933582547105 1
-107C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js133875933579539988 0
 92C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\posthtml\node_modules\dom-serializer133875933581383932 1
 99C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\iframe-srcdoc.js133875933586981998 0
 79C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\browserslist\error.d.ts133875933581047239 0
@@ -590,6 +587,8 @@
 95C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\utility-types\dist\utility-types.js.map133875933581238818 0
 85C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\watcher\src\Signal.hh133875933582724077 0
 84C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\node-releases\data\processed133875933579369240 1
+85C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\update-browserslist-db\cli.js133875933579706957 0
+99C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\passwordrules.js133875933588212183 0
 72C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\semver\README.md133875933583215281 0
 89C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\update-browserslist-db\index.d.ts133875933580862001 0
 95C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@swc\helpers\esm\_async_to_generator.js133875933584212108 0
@@ -1036,6 +1035,8 @@
 117C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc133875933579369240 0
 106C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@swc\helpers\esm\_tagged_template_literal_loose.js133875933585049199 0
 76C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\js-yaml\package.json133875933582719766 0
+97C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\css-subgrid.js133875933585610081 0
+95C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\css3-attr.js133875933585710175 0
 90C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\core\src\public\Symbols.js133875933585049199 0
 79C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\semver\ranges\subset.js133875933583085158 0
 87C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\semver\ranges\to-comparators.js133875933583105177 0
@@ -1354,6 +1355,9 @@
 86C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\postcss-value-parser\README.md133875933580872012 0
 126C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.d.ts.map133875933581699528 0
 88C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\cosmiconfig\dist\ExplorerBase.js133875933580378599 0
+105C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\posthtml\node_modules\domutils\lib\traversal.d.ts133875933582376951 0
+101C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\contenteditable.js133875933584555593 0
+108C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\entities\lib\esm\generated\decode-data-html.d.ts.map133875933582366908 0
 103C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133875933584665687 0
 119C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.js133875933580378599 0
 92C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\feature-flags\lib\types.d.ts133875933580872012 0
@@ -1373,9 +1377,6 @@
 111C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none133875933585590067 1
 93C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\htmlnano\lib\modules\mergeScripts.cjs133875933581545977 0
 82C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\transformer-js\lib133875933580101447 1
-105C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\posthtml\node_modules\domutils\lib\traversal.d.ts133875933582376951 0
-101C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\contenteditable.js133875933584555593 0
-108C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\entities\lib\esm\generated\decode-data-html.d.ts.map133875933582366908 0
 109C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\posthtml\node_modules\domutils\lib\traversal.d.ts.map133875933581713031 0
 98C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@swc\helpers\cjs\_ts_dispose_resources.cjs133875933583998530 0
 92C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\posthtml\node_modules\domhandler\lib133875933581047239 1
@@ -2933,8 +2934,6 @@
 99C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\css-selection.js133875933585580056 0
 107C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js133875933581880543 0
 100C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\css-snappoints.js133875933585590067 0
-97C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\css-subgrid.js133875933585610081 0
-95C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\css3-attr.js133875933585710175 0
 102C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\css-supports-api.js133875933585610081 0
 97C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\@parcel\reporter-dev-server\src\templates133875933580111457 1
 103C:\Users\Usuario\Documents\ebac\projeto-22\node_modules\caniuse-lite\data\features\css-text-box-trim.js133875933585630100 0
