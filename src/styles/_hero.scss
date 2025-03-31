@@ -1,9 +1,16 @@
 @use "variaveis";
 
 .hero {
-  padding-top: 11rem;
+  padding-top: 9rem;
+  width: 100%;
 
   p {
     font-size: variaveis.$texto-secundario;
   }
+
+  @media (max-width: 640px) {
+    padding: 6rem auto;
+  }
+
+
 }

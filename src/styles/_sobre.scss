@@ -1,14 +1,10 @@
-.sobre {
+@use 'variaveis';
 
-  &__img {
-    padding: 2rem;
-    width: 20%;
-  }
+.sobre {
 
   &__lista {
     padding-top: 1rem;
     display: flex;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
 
@@ -19,6 +15,7 @@
       gap: 1rem;
       font-size: 2rem;
       color: #000;
+      flex-grow: 1;
 
       p {
         font-weight: normal;
@@ -26,24 +23,25 @@
     }
 
     @media (max-width: 1024px) {
+      flex-direction: column;
+
       &__item {
-        font-size: 1.5rem;
-        white-space: nowrap;
+        font-size: variaveis.$paragrafo;  
         margin: 0.5rem;
       }
     }
 
     @media (max-width: 640px) {
-        padding: 2rem 0 1rem;
-        flex-wrap: wrap;
+      padding: 2rem auto 1rem;
+      flex-wrap: wrap;
     }
 
-    @media (max-width:480px){
-     &__item {
-      font-size: 1.5rem;
-     
+    @media (max-width: 530px) {
+      &__item, 
+      p {
+        font-size: variaveis.$paragrafo;
+      }
     }
-   }
   }
 }
 
@@ -51,8 +49,7 @@
   font-size: 2rem;
 
   @media (max-width: 1024px) {
-    font-size: 1.5rem;
-    white-space: nowrap;
-    margin: 0.5rem;
+    font-size: variaveis.$paragrafo;
+    margin: auto;
   }
 }

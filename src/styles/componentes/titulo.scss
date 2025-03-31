@@ -1,8 +1,13 @@
 .titulo {
   font-size: 5rem;
   font-family: "Great Vibes", cursive;
+  padding: 0.5rem;
 
-  @media (max-width: 480px) {
+  @media (max-width: 640px) {
     font-size: 4rem;
+  }
+  
+  @media (max-width: 530px) {
+    font-size: 3rem;
   }
 }

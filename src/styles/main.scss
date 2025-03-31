@@ -15,18 +15,19 @@
   box-sizing: border-box;
   font-family: "Lobster Two", sans-serif;
   list-style: none;
+  overflow-x: hidden;
+  text-align: center;
+  
 }
 
 .background {
-  min-width: 480px;
-  width: 100vw;
+  width: 100%;
   height: 100vh;
   background: url("../assets/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: #d4af37;
   background-position: center;
-  overflow: hidden;
 
   @media (max-width: 1024px) {
     background: url("../assets/background-vertical.jpg");
